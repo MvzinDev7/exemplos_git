@@ -3,3 +3,8 @@
     Java
     Python
     C#
+
+2. Ferramentas Utilizadas
+    vscode
+    navegadores
+    frameworks
