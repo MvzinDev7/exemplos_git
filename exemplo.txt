@@ -1,0 +1,5 @@
+1. Linguagens de programação Utilizados no Mercado de Trabalho: 
+    Javascript
+    Java
+    Python
+    C#
