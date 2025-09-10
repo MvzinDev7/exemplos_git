@@ -10,6 +10,7 @@
     frameworks
     IDE
 
+<<<<<<< HEAD
 3. Passos para Iniciar:
     Lógica de Programação
     HTML e CSS
@@ -25,3 +26,11 @@
 
 
     
+=======
+4. Passos para Iniciar:
+    Lógica de programação
+    HTML + CSS
+    Git e GitHub
+    Focar em uma linguagem e SGBD
+    
+>>>>>>> 1c9f834 (Continuação de Passos Iniciais)
