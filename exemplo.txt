@@ -8,12 +8,20 @@
     vscode
     navegadores
     frameworks
-
-3. Ferramentas de Trabalho:
-    vscode
-    frameworks
     IDE
 
-4. Passos para Iniciar:
-    Lógica de programação
+3. Passos para Iniciar:
+    Lógica de Programação
+    HTML e CSS
+    Git e GitHub
+    Escolha uma linguagem para se aprofundar (Geralmente indicamos python pela facilidade de aprendizado)
+
+4. Como Avançar ?
+    Resolução de Atividades
+    Prática e Criação de Projetos
+    Fazer deploy para o GitHub
+    
+
+
+
     
