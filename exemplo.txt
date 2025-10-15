@@ -10,7 +10,6 @@
     frameworks
     IDE
 
-<<<<<<< HEAD
 3. Passos para Iniciar:
     Lógica de Programação
     HTML e CSS
@@ -21,20 +20,10 @@
     Resolução de Atividades
     Prática e Criação de Projetos
     Fazer deploy para o GitHub
-    
-
-
 
     
-=======
-4. Passos para Iniciar:
-    Lógica de programação
-    HTML + CSS
-    Git e GitHub
-<<<<<<< HEAD
+5. Continuação de Passos Iniciais:
     Focar em uma linguagem e SGBD
-    
->>>>>>> 1c9f834 (Continuação de Passos Iniciais)
-=======
-    Focar em uma linguagem e SGBD
->>>>>>> 148f7e3 (Trabalhando com Tuplas)
+ 
+
+6. Trabalhando com Tuplas
