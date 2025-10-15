@@ -31,6 +31,10 @@
     Lógica de programação
     HTML + CSS
     Git e GitHub
+<<<<<<< HEAD
     Focar em uma linguagem e SGBD
     
 >>>>>>> 1c9f834 (Continuação de Passos Iniciais)
+=======
+    Focar em uma linguagem e SGBD
+>>>>>>> 148f7e3 (Trabalhando com Tuplas)
